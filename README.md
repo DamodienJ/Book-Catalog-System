@@ -5,3 +5,11 @@ Menu-driven Java application for managing a book catalog. Features include file 
 1. Open project in Eclipse or any Java IDE
 2. Run `LibraryApplication.java`
 3. Follow the menu prompts in the console
+
+## Sample Data
+Books are loaded from `assg6_catalog.txt` in the following format:
+- ISBN
+- Title
+- Author
+- Publisher
+- Year
